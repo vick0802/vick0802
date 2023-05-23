@@ -1,4 +1,8 @@
+
+
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=999&width=205&lines=Hi+%F0%9F%91%8B%2C+I'm+Devin" alt="Typing SVG" /></a></h1>
+
+<div align="center"><img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" height="200"></div>
 <h3 align="center">A Student of Polytechnics Mauritius</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vick0802&label=Profile%20views&color=0e75b6&style=flat" alt="vick0802" /> </p>
