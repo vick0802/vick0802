@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Diploma in IT(Cyber-Security)**
 
-- 👨‍💻 All of my projects are available at [vick0802.github.io/Portfolio/](vick0802.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at <a href="https://vick0802.github.io/Portfolio/">vick0802.github.io/Portfolio/</a>
 
 - 📫 How to reach me **Devinsobhaa@gmail.com**
 
