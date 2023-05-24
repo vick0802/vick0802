@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&pause=999&width=205&lines=Hi+%F0%9F%91%8B%2C+I'm+Devin" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=999&width=205&lines=Hi+%F0%9F%91%8B%2C+I'm+Devin" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A Student of Polytechnics Mauritius</h3>
 
