@@ -31,7 +31,7 @@
 
 #
 <details>
- <summary><h4>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive Front-end developer
 </details>
 
