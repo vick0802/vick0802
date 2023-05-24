@@ -34,6 +34,6 @@
 #
 <details>
  <summary><h4>👨‍💻 My Coding Journey</h4></summary>
-   I started my coding journey as a naive Front-end developer
+   I started my coding journey as a naive Front-end developer student with a passion to learn everything I could to become an expert in this programming world - HTML, CSS, JAVASCRIPT, BOOTSTRAP.
 </details>
 
