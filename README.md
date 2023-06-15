@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vick0802&label=Profile%20views&color=0e75b6&style=flat" alt="vick0802" /> </p>
 
-- 🔭 I’m currently working on **BootStrap Framework**
+- 🔭 I’m currently working on **React Framework**
 
 - 🌱 I’m currently learning **Diploma in IT(Cyber-Security)**
 
